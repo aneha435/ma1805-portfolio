@@ -4,3 +4,5 @@ Technical development- I used variables to control the ball's horizontal and ver
 I used the expression x= x+ speed to change the horizontal position of the ball overtime. I also incorporated an if statement to detect when the ball reaches the edge of the canvas. when this happens, the speed is multiplied by -1, reversing the direction of movement.
 I used the text() and textSize() functions to display the words 'Moving Ball!' on the canvas.
 Creative decisions- I chose a simple circular shape because I wanted to focus on understanding movement rather than creating a complicated design. The pink ball and light blue background creates a colourful contrast
+
+https://editor.p5js.org/aneha435/full/a4PwOtzV6
