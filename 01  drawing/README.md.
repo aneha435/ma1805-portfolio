@@ -1,0 +1,7 @@
+Project overview- For my first coding project, i created a Christmas tree emoji using p5.js. The aim was to experiment with basic shapes,colours and positioning to produce a recognisable image through code. i decided to create a Christmas tree with a smiley face to make the design more playful and expressive.
+Technical development- I used the setup() function to create the canvas and the draw() function to display my design. I combined different shapes, including triangles, rectangles, circles and ellipses to construct the Christmas tree.
+I also used functions such as fill() to apply different colours and noStroke() ti remove unnecessary outlines. The positioning of each shape was controlled using coordinates.
+Creative Decisions- i chose a christmas tree because i wanted to create something recognisable using simple triangular shapes. i used green for the tree, brown for the trunk and brighter colours for the decorations.
+Adding a smiley face gave the tree more personality and made it look more like an emoji than a traditional illustration.
+
+
