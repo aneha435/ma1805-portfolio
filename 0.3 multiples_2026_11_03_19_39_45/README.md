@@ -7,3 +7,5 @@ Creative Decisions- I chose a selection of pastel colours, including pink, purpl
 I arranged the circles in evenly spaced rows and columns to make the repetition visually clear.
 The random selection of colours adds variation to the pattern, meaning that different arrangements can be generated using the same code.
 User interaction can be used through Mouse clicks which creates a colourful visual pattern. Using mousePressed() function alongside redraw() allows viewers to engage with the design rather than simply observe a static image.
+
+https://editor.p5js.org/aneha435/full/wDmVqj47C
